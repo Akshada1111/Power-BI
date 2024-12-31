@@ -19,4 +19,6 @@ Count of Promotion Applied by Category:
 # Conclusion
 Summarize the insights and their importance:
 "Overall, this dashboard provides valuable insights into our Christmas sales performance. It helps us identify top-selling products, understand customer preferences, and evaluate the success of our promotional strategies. By analyzing these trends, we can make informed decisions to improve our sales and customer satisfaction in future seasons."
+# video link:
+https://www.loom.com/share/f8335d7d7d9847d4b3508dec100ca465?sid=a9ceb088-989e-4f2b-84a2-de1c879b3cf7
 
